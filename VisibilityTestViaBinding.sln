@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisibilityTestViaBinding", "VisibilityTestViaBinding\VisibilityTestViaBinding.csproj", "{F1B3FF43-4A17-4266-951A-0057B2519D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B3FF43-4A17-4266-951A-0057B2519D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B3FF43-4A17-4266-951A-0057B2519D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B3FF43-4A17-4266-951A-0057B2519D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B3FF43-4A17-4266-951A-0057B2519D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1B1F53-10D4-4AED-9AD5-61CA69A68804}
+	EndGlobalSection
+EndGlobal
