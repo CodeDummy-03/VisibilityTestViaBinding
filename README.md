@@ -1,0 +1,2 @@
+# VisibilityTestViaBinding
+INotifyPropertyChanged Visibility Changed Testing
